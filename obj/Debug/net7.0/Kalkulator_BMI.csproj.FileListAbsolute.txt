@@ -1,0 +1,14 @@
+C:\Users\kszatkox\Kalkulator_BMI\bin\Debug\net7.0\Kalkulator_BMI.exe
+C:\Users\kszatkox\Kalkulator_BMI\bin\Debug\net7.0\Kalkulator_BMI.deps.json
+C:\Users\kszatkox\Kalkulator_BMI\bin\Debug\net7.0\Kalkulator_BMI.runtimeconfig.json
+C:\Users\kszatkox\Kalkulator_BMI\bin\Debug\net7.0\Kalkulator_BMI.dll
+C:\Users\kszatkox\Kalkulator_BMI\bin\Debug\net7.0\Kalkulator_BMI.pdb
+C:\Users\kszatkox\Kalkulator_BMI\obj\Debug\net7.0\Kalkulator_BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kszatkox\Kalkulator_BMI\obj\Debug\net7.0\Kalkulator_BMI.AssemblyInfoInputs.cache
+C:\Users\kszatkox\Kalkulator_BMI\obj\Debug\net7.0\Kalkulator_BMI.AssemblyInfo.cs
+C:\Users\kszatkox\Kalkulator_BMI\obj\Debug\net7.0\Kalkulator_BMI.csproj.CoreCompileInputs.cache
+C:\Users\kszatkox\Kalkulator_BMI\obj\Debug\net7.0\Kalkulator_BMI.dll
+C:\Users\kszatkox\Kalkulator_BMI\obj\Debug\net7.0\refint\Kalkulator_BMI.dll
+C:\Users\kszatkox\Kalkulator_BMI\obj\Debug\net7.0\Kalkulator_BMI.pdb
+C:\Users\kszatkox\Kalkulator_BMI\obj\Debug\net7.0\Kalkulator_BMI.genruntimeconfig.cache
+C:\Users\kszatkox\Kalkulator_BMI\obj\Debug\net7.0\ref\Kalkulator_BMI.dll
